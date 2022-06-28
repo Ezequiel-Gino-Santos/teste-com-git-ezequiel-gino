@@ -1,2 +1,3 @@
 Este arquivo possui texto
 Esta linha adciona mais texto
+Esta linha server para testar o branch, e como ele ajuda no desenvolvimento
