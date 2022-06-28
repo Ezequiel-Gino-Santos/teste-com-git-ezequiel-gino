@@ -1,1 +1,2 @@
 Este arquivo possui texto
+Esta linha adciona mais texto
